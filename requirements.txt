@@ -1,7 +1,7 @@
-streamlit
-opencv-python
-ultralytics
-norfair
-pandas
-seaborn
-matplotlib
+streamlit 
+opencv-python 
+ultralytics 
+norfair 
+pandas 
+seaborn 
+matplotlib 
